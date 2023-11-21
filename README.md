@@ -19,7 +19,12 @@ This is a simple online calculator designed to perform basic arithmetic operatio
 
 ## Getting Started
 
-To use this calculator, simply open the `index.html` file in a web browser. The calculator's interface is straightforward, making it easy for users to perform calculations with ease.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/OmerKhan24/Online-Calculator.git
+2. To use this calculator, simply open the `index.html` file in a web browser.
+3. The calculator's interface is straightforward, making it easy for users to perform calculations with ease.
 
 ## Technologies Used
 
