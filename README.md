@@ -38,7 +38,7 @@ Feel free to contribute to the development of this calculator by submitting issu
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE License. See the [LICENSE](https://github.com/OmerKhan24/Online-Calculator/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/OmerKhan24/Online-Calculator/blob/main/LICENSE) file for details.
 
 ---
 
